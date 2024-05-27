@@ -18,3 +18,4 @@ JavaScript has dynamic types, meaning a variable can hold any type of value. Com
 
 Number: 42, 3.14
 String: `"Hello
+hui
