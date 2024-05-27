@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-ChandanThakur-red)](https://www.youtube.com/channel/UCn5LJSoeIAHrZVWkm80hkzA)
-[![Linkedin Badge](https://img.shields.io/badge/-Chandan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandan-thakur-64a97159/)](https://www.linkedin.com/in/chandan-thakur311/)
+[![Linkedin Badge](https://img.shields.io/badge/-$Chandan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandan-thakur-64a97159/)](https://www.linkedin.com/in/chandan-thakur311/)
 
 I'm
 Full Stack Solution Architect
